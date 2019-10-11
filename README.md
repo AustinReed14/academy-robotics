@@ -3,7 +3,7 @@
 
 My website at
 
-https://gitpod/#github.com/AustinReed14/academy-robotics
+https://gitpod.io/#github.com/AustinReed14/academy-robotics
 
 
 
